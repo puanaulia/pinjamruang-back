@@ -1,0 +1,6 @@
+@PeminjamRuangAPI_HostAddress = http://localhost:5084
+
+GET {{PeminjamRuangAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
