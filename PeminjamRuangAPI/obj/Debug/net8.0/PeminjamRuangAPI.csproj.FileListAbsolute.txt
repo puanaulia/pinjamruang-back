@@ -129,3 +129,4 @@ C:\Users\Public\Documents\project pdbl\pinjamruang-back\PeminjamRuangAPI\obj\Deb
 C:\Users\Public\Documents\project pdbl\pinjamruang-back\PeminjamRuangAPI\obj\Debug\net8.0\PeminjamRuangAPI.pdb
 C:\Users\Public\Documents\project pdbl\pinjamruang-back\PeminjamRuangAPI\obj\Debug\net8.0\PeminjamRuangAPI.genruntimeconfig.cache
 C:\Users\Public\Documents\project pdbl\pinjamruang-back\PeminjamRuangAPI\obj\Debug\net8.0\ref\PeminjamRuangAPI.dll
+C:\Users\Public\Documents\project pdbl\pinjamruang-back\PeminjamRuangAPI\obj\Debug\net8.0\PeminjamRuangAPI.sourcelink.json

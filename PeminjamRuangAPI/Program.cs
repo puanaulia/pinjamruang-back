@@ -15,7 +15,6 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Pastikan EnsureCreated dijalankan (tidak masalah untuk routing)
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
